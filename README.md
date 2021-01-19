@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **akj1401160168@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny XD**
+- ⚡ Fun fact **Playing Cricket & Watching Streaming Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
