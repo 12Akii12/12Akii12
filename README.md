@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12akii12&label=Profile%20views&color=0e75b6&style=flat" alt="12akii12" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12akii12" alt="12akii12" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/13754/screenshots/10514046/media/75036ca28a43caf66b984a250bd1b39b.png?compress=1&resize=1000x750" />
+<img align="right" alt="Coding" width="400" src="https://shape.so/view?compress=1&resize=1000x750" />
 
 - 📫 How to reach me **akj1401160168@gmail.com**
 
