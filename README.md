@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Full Stack Developer | MERN Stack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=12akii12&label=Profile%20views&color=0e75b6&style=flat" alt="12akii12" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12akii12" alt="12akii12" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn4.vectorstock.com/i/1000x1000/31/48/software-developer-and-programmer-vector-10673148.jpg?compress=1&resize=1000x750" />
