@@ -1,5 +1,3 @@
-[![MasterHead](https://opensourcegeeks.net/wp-content/uploads/2020/07/cropped-OpenSource-Geeks-New-Website-Banner.png)]
-
 <h1 align="center">Hi 👋, I'm Akshay Jadhav</h1>
 <h3 align="center">A passionate Full Stack Developer | MERN Stack</h3>
 
@@ -7,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=12akii12" alt="12akii12" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn4.vectorstock.com/i/1000x1000/31/48/software-developer-and-programmer-vector-10673148.jpg?compress=1&resize=1000x750" />
-
 - 📫 How to reach me **akj1401160168@gmail.com**
 
-- ⚡ Fun fact **Playing Cricket & Watching Streaming Games**
+- ⚡ Fun fact **I think I'm funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
